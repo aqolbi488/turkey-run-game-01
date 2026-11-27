@@ -1,8 +1,8 @@
 # Gobble Dash — The Great Thanksgiving Escape
 
-![make.fun](https://make.fun/badge/turkey-run-game-01.svg)
-![rank](https://make.fun/badge/turkey-run-game-01/aqolbi488/turkey-run-game-01/rank.svg)
-![reward](https://make.fun/badge/turkey-run-game-01/aqolbi488/turkey-run-game-01/reward.svg)
+[![make.fun · turkey-run-game-01](https://make.fun/badge/turkey-run-game-01.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![rank](https://make.fun/badge/turkey-run-game-01/aqolbi488/turkey-run-game-01/rank.svg)](https://make.fun/bounty/turkey-run-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![reward](https://make.fun/badge/turkey-run-game-01/aqolbi488/turkey-run-game-01/reward.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
 
 You are the turkey, and Thanksgiving is coming. The farmer is chasing you,
 the oven keeps flaring, and carving knives are flying. Grab corn to open the
